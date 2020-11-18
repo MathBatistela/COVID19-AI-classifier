@@ -143,6 +143,5 @@ dmypy.json
 .prof
 
 # End of https://www.toptal.com/developers/gitignore/api/python
-
-!/dataset/features/**/.gitkeep
-!/dataset/processed_images/**/.gitkeep
+dataset/features/**
+dataset/processed_images/**
